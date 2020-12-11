@@ -1,5 +1,3 @@
-
-
 def entier_vers_binaire(n):
     b = []
     while n > 0:
