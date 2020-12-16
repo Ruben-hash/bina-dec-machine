@@ -28,7 +28,7 @@ Exemples :
 • entrée [1,1,0], sortie 6
 • entrée [1,1,0,1,1,1], sortie 55
 • entrée [1,1,0,1,0,0,1,1,0,1,1,1], sortie 3383
-Première NSI novembre 2020
+
 3. Voici un algorithme qui effectue le même travail : il permet le calcul de l’entier à partir de
 l’écriture binaire, mais il a l’avantage de ne jamais calculer directement des puissances de 2.
 Programme cet algorithme en une fonction binaire_vers_entier_bis() qui a les mêmes
